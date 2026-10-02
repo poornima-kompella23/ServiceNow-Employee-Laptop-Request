@@ -1,5 +1,3 @@
-# ServiceNow-Employee-Laptop-Request
-ServiceNow-based Employee Laptop Request Application with automated approval, validation and role-based security.
 # ServiceNow Employee Laptop Request Application
 
 ## Project Overview
